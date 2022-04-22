@@ -1,0 +1,259 @@
+name,version,software_id,License,Organization,HomePage,Date,Repositories,Used_by_artifacts,vuln_cves,Direct
+dom4j:dom4j,1.4-dev-3,18,BSD,,,"(Nov 08, 2005) ",['Central'],2349,"['CVE-2020-10683', 'CVE-2018-1000632']","[True, True]"
+org.apache.poi:poi,3.15,22,Apache 2.0,"
+Apache Software Foundation
+","
+http://poi.apache.org/
+","(Sep 17, 2016) ",['Central'],1937,"['CVE-2017-12626', 'CVE-2022-23305', 'CVE-2022-23302', 'CVE-2021-4104', 'CVE-2020-15250', 'CVE-2019-17571']","[True, False, False, False, False, False]"
+com.netflix.conductor:conductor-core,1.7.7,34,Apache 2.0,,"
+https://github.com/Netflix/conductor
+","(Aug 11, 2017) ","['Central', 'Netflix OSS', 'Sonatype', 'Spring Plugins']",21,"['CVE-2020-9296', 'CVE-2021-20190', 'CVE-2020-9548', 'CVE-2020-9547', 'CVE-2020-8840', 'CVE-2020-36518', 'CVE-2020-36189', 'CVE-2020-36188', 'CVE-2020-36187', 'CVE-2020-36186', 'CVE-2020-36185', 'CVE-2020-36184', 'CVE-2020-36183', 'CVE-2020-36182', 'CVE-2020-36181', 'CVE-2020-36180', 'CVE-2020-36179', 'CVE-2020-35491', 'CVE-2020-35490', 'CVE-2020-25649', 'CVE-2020-24750', 'CVE-2020-24616', 'CVE-2020-10673', 'CVE-2019-20330', 'CVE-2019-17531', 'CVE-2019-17267', 'CVE-2019-16943', 'CVE-2019-16942', 'CVE-2019-16335', 'CVE-2019-14892', 'CVE-2019-14540', 'CVE-2019-14439', 'CVE-2019-14379', 'CVE-2019-12814', 'CVE-2019-12384', 'CVE-2019-12086', 'CVE-2018-7489', 'CVE-2018-5968', 'CVE-2018-19362', 'CVE-2018-19361', 'CVE-2018-19360', 'CVE-2018-14721', 'CVE-2018-14720', 'CVE-2018-14719', 'CVE-2018-14718', 'CVE-2018-12023', 'CVE-2018-12022', 'CVE-2018-11307', 'CVE-2017-7525', 'CVE-2017-17485', 'CVE-2017-15095']","[True, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False]"
+com.fasterxml.jackson.core:jackson-databind,2.8.0.rc1,53,Apache 2.0,,"
+http://github.com/FasterXML/jackson
+","(Jun 07, 2016) ","['Central', 'Mulesoft', 'Sonatype']",21519,"['CVE-2021-20190', 'CVE-2020-9548', 'CVE-2020-9547', 'CVE-2020-36518', 'CVE-2020-36189', 'CVE-2020-36188', 'CVE-2020-36187', 'CVE-2020-36186', 'CVE-2020-36185', 'CVE-2020-36184', 'CVE-2020-36183', 'CVE-2020-36182', 'CVE-2020-36181', 'CVE-2020-36180', 'CVE-2020-36179', 'CVE-2020-35491', 'CVE-2020-35490', 'CVE-2020-25649', 'CVE-2020-24750', 'CVE-2020-24616', 'CVE-2020-10673', 'CVE-2019-17531', 'CVE-2019-17267', 'CVE-2019-16943', 'CVE-2019-16942', 'CVE-2019-16335', 'CVE-2019-14540', 'CVE-2019-14439', 'CVE-2019-14379', 'CVE-2019-12814', 'CVE-2019-12384', 'CVE-2019-12086', 'CVE-2018-7489', 'CVE-2018-5968', 'CVE-2017-17485', 'CVE-2017-15095', 'CVE-2020-15250']","[True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, False]"
+org.apache.tomcat.embed:tomcat-embed-core,8.0.28,24,Apache 2.0,,"
+http://tomcat.apache.org/
+","(Oct 07, 2015) ",['Central'],821,"['CVE-2021-25329', 'CVE-2020-9484', 'CVE-2020-1938', 'CVE-2020-1935', 'CVE-2019-17563', 'CVE-2019-12418', 'CVE-2019-0232', 'CVE-2019-0221', 'CVE-2019-0199', 'CVE-2018-8034', 'CVE-2018-8014', 'CVE-2018-1336', 'CVE-2018-1304']","[True, True, True, True, True, True, True, True, True, True, True, True, True]"
+org.apache.tomcat.embed:tomcat-embed-core,8.0.29,24,Apache 2.0,,"
+http://tomcat.apache.org/
+","(Nov 20, 2015) ","['Central', 'Spring Lib M']",821,"['CVE-2021-25329', 'CVE-2020-9484', 'CVE-2020-1938', 'CVE-2020-1935', 'CVE-2019-17563', 'CVE-2019-12418', 'CVE-2019-0232', 'CVE-2019-0221', 'CVE-2019-0199', 'CVE-2018-8034', 'CVE-2018-8014', 'CVE-2018-1336', 'CVE-2018-1304']","[True, True, True, True, True, True, True, True, True, True, True, True, True]"
+org.apache.tomcat.embed:tomcat-embed-core,8.0.26,24,Apache 2.0,,"
+http://tomcat.apache.org/
+","(Aug 18, 2015) ","['Central', 'Spring Plugins']",821,"['CVE-2021-25329', 'CVE-2020-9484', 'CVE-2020-1938', 'CVE-2020-1935', 'CVE-2019-17563', 'CVE-2019-12418', 'CVE-2019-0232', 'CVE-2019-0221', 'CVE-2019-0199', 'CVE-2018-8034', 'CVE-2018-8014', 'CVE-2018-1336', 'CVE-2018-1304']","[True, True, True, True, True, True, True, True, True, True, True, True, True]"
+org.apache.tomcat.embed:tomcat-embed-core,8.0.32,24,Apache 2.0,,"
+http://tomcat.apache.org/
+","(Feb 02, 2016) ","['Central', 'Redhat GA']",821,"['CVE-2021-25329', 'CVE-2020-9484', 'CVE-2020-1938', 'CVE-2020-1935', 'CVE-2019-17563', 'CVE-2019-12418', 'CVE-2019-0232', 'CVE-2019-0221', 'CVE-2019-0199', 'CVE-2018-8034', 'CVE-2018-8014', 'CVE-2018-1336', 'CVE-2018-1304']","[True, True, True, True, True, True, True, True, True, True, True, True, True]"
+com.caverock:androidsvg,1.0.170,75,Apache 2.0,,"
+http://code.google.com/p/androidsvg/
+","(Mar 17, 2013) ","['Central', 'Sonatype', 'Spring Lib M', 'Spring Plugins']",30,['CVE-2017-1000498'],[True]
+io.undertow:undertow-core,1.4.9.Final,47,Apache 2.0,,,"(Jan 31, 2017) ","['Central', 'JBoss Releases', 'WSO2 Public']",618,"['CVE-2021-20220', 'CVE-2020-27782', 'CVE-2020-10719', 'CVE-2020-10705', 'CVE-2020-10687', 'CVE-2019-3888', 'CVE-2019-10212', 'CVE-2019-10184', 'CVE-2017-2666', 'CVE-2022-23221', 'CVE-2021-42392', 'CVE-2021-23463', 'CVE-2020-15250', 'CVE-2020-13956', 'CVE-2019-16869', 'CVE-2015-5262', 'CVE-2014-3577']","[True, True, True, True, True, True, True, True, True, False, False, False, False, False, False, False, False]"
+com.fasterxml.jackson.dataformat:jackson-dataformat-xml,2.3.0-rc1,85,Apache 2.0LGPL 2.1,,"
+http://wiki.fasterxml.com/JacksonExtensionXmlDataBinding
+","(Oct 26, 2013) ","['Central', 'Sonatype']",1469,"['CVE-2016-7051', 'CVE-2016-3720', 'CVE-2021-20190', 'CVE-2020-9548', 'CVE-2020-9547', 'CVE-2020-8840', 'CVE-2020-36518', 'CVE-2020-36189', 'CVE-2020-36188', 'CVE-2020-36187', 'CVE-2020-36186', 'CVE-2020-36185', 'CVE-2020-36184', 'CVE-2020-36183', 'CVE-2020-36182', 'CVE-2020-36181', 'CVE-2020-36180', 'CVE-2020-36179', 'CVE-2020-35491', 'CVE-2020-35490', 'CVE-2020-25649', 'CVE-2020-24750', 'CVE-2020-24616', 'CVE-2020-15250', 'CVE-2020-10673', 'CVE-2019-20330', 'CVE-2019-17531', 'CVE-2019-17267', 'CVE-2019-16943', 'CVE-2019-16942', 'CVE-2019-16335', 'CVE-2019-14892', 'CVE-2019-14540', 'CVE-2019-14439', 'CVE-2019-14379', 'CVE-2019-12814', 'CVE-2019-12384', 'CVE-2019-12086', 'CVE-2018-7489', 'CVE-2018-5968', 'CVE-2018-14719', 'CVE-2018-14718', 'CVE-2018-12022', 'CVE-2018-11307', 'CVE-2017-7525', 'CVE-2017-17485', 'CVE-2017-15095']","[True, True, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False]"
+cn.hutool:hutool-core,4.1.11,80,Apache 2.0,,,"(Sep 13, 2018) ","['Central', 'FenixEdu', 'JCenter']",210,['CVE-2018-17297'],[True]
+commons-collections:commons-collections,2.0.20020914.015953,103,Apache,,,"(Nov 08, 2005) ","['Central', 'Apache Public', 'Apache Releases']",5870,['CVE-2015-6420'],[True]
+com.h2database:h2,1.2.120,93,,,"
+http://www.h2database.com
+","(Oct 04, 2009) ","['Central', 'Sonatype', 'Spring Lib M', 'Spring Plugins']",7025,"['CVE-2022-23221', 'CVE-2021-42392', 'CVE-2021-23463']","[True, True, True]"
+com.h2database:h2,1.2.128,93,,,"
+http://www.h2database.com
+","(Jan 30, 2010) ","['Central', 'Sonatype']",7025,"['CVE-2022-23221', 'CVE-2021-42392', 'CVE-2021-23463']","[True, True, True]"
+com.h2database:h2,1.2.126,93,,,"
+http://www.h2database.com
+","(Dec 18, 2009) ","['Central', 'Sonatype']",7025,"['CVE-2022-23221', 'CVE-2021-42392', 'CVE-2021-23463']","[True, True, True]"
+com.h2database:h2,1.1.113,93,,,"
+http://www.h2database.com
+","(May 21, 2009) ","['Central', 'Sonatype']",7025,"['CVE-2022-23221', 'CVE-2021-42392', 'CVE-2021-23463']","[True, True, True]"
+com.h2database:h2,1.0.58,93,,,"
+http://www.h2database.com
+","(Sep 16, 2007) ","['Central', 'Sonatype', 'Spring Lib M', 'Spring Plugins']",7025,"['CVE-2022-23221', 'CVE-2021-23463']","[True, True]"
+com.h2database:h2,1.0.59,93,,,"
+http://www.h2database.com
+","(Oct 03, 2007) ","['Central', 'Sonatype']",7025,"['CVE-2022-23221', 'CVE-2021-23463']","[True, True]"
+com.h2database:h2,1.3.174,93,,,"
+http://www.h2database.com
+","(Oct 19, 2013) ","['Central', 'Geomajas', 'Sonatype']",7025,"['CVE-2022-23221', 'CVE-2021-42392', 'CVE-2021-23463']","[True, True, True]"
+com.h2database:h2,1.3.175,93,,,"
+http://www.h2database.com
+","(Jan 18, 2014) ","['Central', 'Sonatype']",7025,"['CVE-2022-23221', 'CVE-2021-42392', 'CVE-2021-23463']","[True, True, True]"
+com.h2database:h2,1.1.106,93,,,"
+http://www.h2database.com
+","(Jan 04, 2009) ","['Central', 'Sonatype', 'Spring Lib M', 'Spring Plugins']",7025,"['CVE-2022-23221', 'CVE-2021-42392', 'CVE-2021-23463']","[True, True, True]"
+com.h2database:h2,1.3.176,93,,,"
+http://www.h2database.com
+","(Apr 05, 2014) ","['Central', 'Sonatype']",7025,"['CVE-2022-23221', 'CVE-2021-42392', 'CVE-2021-23463']","[True, True, True]"
+io.swagger:swagger-codegen,2.1.1,110,Apache 2.0,,,"(Jun 08, 2015) ","['Central', 'Sonatype', 'Spring Lib M', 'Spring Plugins', 'Xceptance']",43,"['CVE-2021-21364', 'CVE-2021-21363', 'CVE-2017-1000208', 'CVE-2017-1000207', 'CVE-2021-29425', 'CVE-2017-1000208', 'CVE-2017-1000207']","[True, True, True, True, False, False, False]"
+net.bull.javamelody:javamelody-core,1.8.1,116,LGPL,"
+Emeric Vernat
+","
+http://javamelody.googlecode.com/
+","(Aug 02, 2011) ","['Central', 'Sonatype', 'Spring Lib M', 'Spring Plugins']",67,"['CVE-2018-15531', 'CVE-2022-23305', 'CVE-2022-23302', 'CVE-2022-23221', 'CVE-2021-43859', 'CVE-2021-42392', 'CVE-2021-4104', 'CVE-2021-39154', 'CVE-2021-39153', 'CVE-2021-39152', 'CVE-2021-39151', 'CVE-2021-39150', 'CVE-2021-39149', 'CVE-2021-39148', 'CVE-2021-39147', 'CVE-2021-39146', 'CVE-2021-39145', 'CVE-2021-39144', 'CVE-2021-39141', 'CVE-2021-39140', 'CVE-2021-39139', 'CVE-2021-29505', 'CVE-2021-23463', 'CVE-2021-21351', 'CVE-2021-21350', 'CVE-2021-21349', 'CVE-2021-21348', 'CVE-2021-21347', 'CVE-2021-21346', 'CVE-2021-21345', 'CVE-2021-21344', 'CVE-2021-21343', 'CVE-2021-21342', 'CVE-2021-21341', 'CVE-2020-26259', 'CVE-2020-26258', 'CVE-2020-26217', 'CVE-2019-17571', 'CVE-2019-10173', 'CVE-2017-7957', 'CVE-2016-3674', 'CVE-2013-7285']","[True, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False]"
+org.codehaus.jackson:jackson-mapper-asl,1.8.8,159,Apache 2.0,"
+FasterXML
+","
+http://jackson.codehaus.org
+","(Jan 21, 2012) ","['Central', 'Geomajas', 'Redhat GA', 'Sonatype', 'Spring Lib M', 'Spring Lib Release']",3593,['CVE-2019-10172'],[True]
+org.codehaus.jackson:jackson-mapper-asl,1.5.3,159,Apache 2.0,"
+FasterXML
+","
+http://jackson.codehaus.org
+","(May 31, 2010) ","['Central', 'Geomajas', 'Sonatype', 'Spring Lib Release']",3593,['CVE-2019-10172'],[True]
+org.codehaus.jackson:jackson-mapper-asl,0.9.9-2,159,Apache 2.0,"
+FasterXML
+","
+http://jackson.codehaus.org
+","(Mar 20, 2009) ","['Central', 'Geomajas', 'Sonatype', 'Spring Lib M', 'Spring Lib Release', 'Spring Plugins']",3593,['CVE-2019-10172'],[True]
+org.codehaus.jackson:jackson-mapper-asl,1.7.5,159,Apache 2.0,"
+FasterXML
+","
+http://jackson.codehaus.org
+","(Apr 02, 2011) ","['Central', 'Geomajas', 'Sonatype', 'Spring Lib Release']",3593,['CVE-2019-10172'],[True]
+org.codehaus.jackson:jackson-mapper-asl,1.9.9,159,Apache 2.0,"
+FasterXML
+","
+http://jackson.codehaus.org
+","(Jul 28, 2012) ","['Central', 'Geomajas', 'Redhat GA', 'Sonatype', 'Spring Lib M', 'Spring Lib Release']",3593,['CVE-2019-10172'],[True]
+org.codehaus.jackson:jackson-mapper-asl,1.4.2,159,Apache 2.0,"
+FasterXML
+","
+http://jackson.codehaus.org
+","(Feb 01, 2010) ","['Central', 'Geomajas', 'Sonatype', 'Spring Lib Release']",3593,['CVE-2019-10172'],[True]
+org.springframework:spring-core,2.5.4,38,Apache 2.0,"
+Spring Framework
+","
+http://www.springframework.org
+","(Apr 28, 2008) ","['Central', 'Alfresco', 'Sonatype', 'Spring Releases', 'WSO2 Dist']",7152,"['CVE-2022-22965', 'CVE-2022-22950', 'CVE-2018-15756', 'CVE-2018-1275', 'CVE-2018-1272', 'CVE-2018-1271', 'CVE-2018-1270', 'CVE-2018-1257', 'CVE-2016-9878', 'CVE-2016-5007', 'CVE-2015-3192', 'CVE-2022-23305', 'CVE-2022-23302', 'CVE-2021-4104', 'CVE-2019-17571', 'CVE-2015-6420']","[True, True, True, True, True, True, True, True, True, True, True, False, False, False, False, False]"
+org.springframework:spring-core,2.5.2,38,Apache 2.0,"
+Spring Framework
+","
+http://www.springframework.org
+","(Mar 06, 2008) ","['Central', 'Alfresco', 'Sonatype', 'Spring Releases']",7152,"['CVE-2022-22965', 'CVE-2022-22950', 'CVE-2018-15756', 'CVE-2018-1275', 'CVE-2018-1272', 'CVE-2018-1271', 'CVE-2018-1270', 'CVE-2018-1257', 'CVE-2016-9878', 'CVE-2016-5007', 'CVE-2015-3192', 'CVE-2022-23305', 'CVE-2022-23302', 'CVE-2021-4104', 'CVE-2019-17571', 'CVE-2015-6420']","[True, True, True, True, True, True, True, True, True, True, True, False, False, False, False, False]"
+org.springframework:spring-core,1.1.4,38,,,,"(Dec 23, 2005) ","['Central', 'Sonatype']",7152,"['CVE-2022-22965', 'CVE-2022-22950', 'CVE-2018-15756', 'CVE-2018-1275', 'CVE-2018-1272', 'CVE-2018-1271', 'CVE-2018-1270', 'CVE-2018-1257', 'CVE-2016-9878', 'CVE-2016-5007', 'CVE-2015-3192']","[True, True, True, True, True, True, True, True, True, True, True]"
+org.springframework:spring-core,1.2,38,,,,"(Dec 23, 2005) ","['Central', 'Sonatype']",7152,"['CVE-2022-22965', 'CVE-2022-22950', 'CVE-2018-15756', 'CVE-2018-1275', 'CVE-2018-1272', 'CVE-2018-1271', 'CVE-2018-1270', 'CVE-2018-1257', 'CVE-2016-9878', 'CVE-2016-5007', 'CVE-2015-3192']","[True, True, True, True, True, True, True, True, True, True, True]"
+org.springframework.cloud:spring-cloud-netflix-hystrix-dashboard,1.0.7.RELEASE,191,Apache 2.0,,"
+http://projects.spring.io/spring-cloud/
+","(Jan 27, 2016) ","['Central', 'Alfresco', 'Sonatype', 'Spring Releases']",4,"['CVE-2021-22053', 'CVE-2022-22965', 'CVE-2020-13956']","[True, False, False]"
+io.vertx:vertx-web,3.3.0.CR1,291,Apache 2.0EPL 1.0,,,"(Jun 10, 2016) ","['Central', 'IBiblio', 'GroovyLibs', 'Sonatype']",527,"['CVE-2019-17640', 'CVE-2018-12542', 'CVE-2018-12540']","[True, True, True]"
+com.orientechnologies:orientdb-core,1.0.1,239,Apache 2.0,,,"(May 22, 2012) ","['Central', 'MIT Pub', 'Sonatype', 'Spring Lib M', 'Spring Plugins']",87,['CVE-2017-11467'],[True]
+net.sf.mpxj:mpxj,5.7.1,296,LGPL 3.0,"
+Packwood Software
+","
+http://mpxj.sourceforge.net/
+","(Mar 22, 2017) ","['Central', 'Sonatype', 'Spring Plugins']",2,"['CVE-2020-35460', 'CVE-2020-25020', 'CVE-2020-15250', 'CVE-2017-12626']","[True, True, False, False]"
+net.sf.mpxj:mpxj,6.0.0,296,LGPL 3.0,"
+Packwood Software
+","
+http://mpxj.org
+","(Jul 23, 2017) ","['Central', 'Sonatype']",2,"['CVE-2020-35460', 'CVE-2020-25020', 'CVE-2020-15250', 'CVE-2017-12626']","[True, True, False, False]"
+net.sf.mpxj:mpxj,5.1.0,296,LGPL 3.0,"
+Packwood Software
+","
+http://mpxj.sourceforge.net/
+","(May 18, 2015) ","['Central', 'Sonatype', 'Spring Lib M', 'Spring Plugins']",2,"['CVE-2020-35460', 'CVE-2020-25020', 'CVE-2020-15250', 'CVE-2017-12626']","[True, True, False, False]"
+net.sf.mpxj:mpxj,5.9.0,296,LGPL 3.0,"
+Packwood Software
+","
+http://mpxj.org
+","(Apr 27, 2017) ","['Central', 'Sonatype', 'Spring Lib M', 'Spring Plugins']",2,"['CVE-2020-35460', 'CVE-2020-25020', 'CVE-2020-15250', 'CVE-2017-12626']","[True, True, False, False]"
+net.sf.mpxj:mpxj,6.1.2,296,LGPL 3.0,"
+Packwood Software
+","
+http://mpxj.org
+","(Sep 12, 2017) ","['Central', 'Sonatype', 'Spring Lib M', 'Spring Plugins']",2,"['CVE-2020-35460', 'CVE-2020-25020', 'CVE-2020-15250', 'CVE-2017-12626']","[True, True, False, False]"
+org.apache.james:james-server,3.0-M1,323,Apache 2.0,,"
+http://james.apache.org/server/head/
+","(Oct 26, 2010) ","['Central', 'Apache Releases', 'Spring Lib M', 'Spring Lib Release', 'Spring Plugins']",1,"['CVE-2022-22931', 'CVE-2021-40525', 'CVE-2021-40111', 'CVE-2021-40110', 'CVE-2021-38542', 'CVE-2022-23305', 'CVE-2022-23302', 'CVE-2022-23221', 'CVE-2022-22965', 'CVE-2022-22950', 'CVE-2021-42392', 'CVE-2021-4104', 'CVE-2021-29425', 'CVE-2021-23463', 'CVE-2019-17571', 'CVE-2019-10086', 'CVE-2019-0188', 'CVE-2018-15756', 'CVE-2018-1275', 'CVE-2018-1272', 'CVE-2018-1271', 'CVE-2018-1270', 'CVE-2018-1257', 'CVE-2017-5643', 'CVE-2016-9878', 'CVE-2016-5007', 'CVE-2015-6420', 'CVE-2015-3192', 'CVE-2015-0264', 'CVE-2015-0263', 'CVE-2014-0002']","[True, True, True, True, True, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False]"
+org.apache.ranger:ranger,1.1.0,338,Apache 2.0,,"
+http://ranger.apache.org/
+","(Jul 10, 2018) ",['Central'],0,"['CVE-2019-12397', 'CVE-2018-11778', 'CVE-2020-15250', 'CVE-2019-2692', 'CVE-2019-10086']","[True, True, False, False, False]"
+org.apache.tomcat:tomcat,8.0.8,24,Apache 2.0,,"
+http://tomcat.apache.org/
+","(May 16, 2014) ","['Central', 'Apache Releases']",45,"['CVE-2022-23181', 'CVE-2021-30639', 'CVE-2020-8022', 'CVE-2020-1935']","[True, True, True, True]"
+org.apache.tomcat:tomcat,8.0.15,24,Apache 2.0,,"
+http://tomcat.apache.org/
+","(Nov 02, 2014) ","['Central', 'Apache Releases']",45,"['CVE-2022-23181', 'CVE-2021-30639', 'CVE-2020-8022', 'CVE-2020-1935']","[True, True, True, True]"
+org.apache.tomcat:tomcat,8.0.12,24,Apache 2.0,,"
+http://tomcat.apache.org/
+","(Aug 29, 2014) ","['Central', 'Apache Releases']",45,"['CVE-2022-23181', 'CVE-2021-30639', 'CVE-2020-8022', 'CVE-2020-1935']","[True, True, True, True]"
+org.apache.tomcat:tomcat,8.0.43,24,Apache 2.0,,"
+http://tomcat.apache.org/
+","(Mar 28, 2017) ","['Central', 'Spring Lib M', 'Spring Plugins']",45,"['CVE-2022-23181', 'CVE-2021-30639', 'CVE-2020-8022', 'CVE-2020-1935']","[True, True, True, True]"
+org.apache.zeppelin:zeppelin,0.5.0-incubating,357,Apache 2.0,,"
+http://zeppelin.incubator.apache.org/
+","(Jul 11, 2015) ","['Central', 'Spring Lib M', 'Spring Plugins']",0,"['CVE-2021-27578', 'CVE-2020-13929', 'CVE-2019-10095', 'CVE-2018-1328', 'CVE-2018-1317', 'CVE-2017-12619', 'CVE-2022-23305', 'CVE-2022-23302', 'CVE-2021-4104', 'CVE-2021-29425', 'CVE-2020-8908', 'CVE-2020-15250', 'CVE-2020-13956', 'CVE-2019-17571', 'CVE-2018-1320', 'CVE-2018-10237']","[True, True, True, True, True, True, False, False, False, False, False, False, False, False, False, False]"
+org.apache.wicket:wicket-core,1.5-RC5.1,353,Apache 2.0,,,"(Jun 20, 2011) ","['Central', 'Apache Public', 'Apache Releases']",458,"['CVE-2020-11976', 'CVE-2020-15250']","[True, False]"
+org.http4s:http4s-server_2.13.0-M5,0.20.5,388,Apache 2.0,"
+org.http4s
+","
+https://http4s.org/
+","(Jul 09, 2019) ",['Central'],85,"['CVE-2021-41084', 'CVE-2021-39185']","[True, True]"
+org.http4s:http4s-server_2.13,0.22-53-01128f5,388,Apache 2.0,"
+http4s.org
+","
+https://http4s.org/
+","(Jan 28, 2021) ",['Central'],85,"['CVE-2021-41084', 'CVE-2021-39185']","[True, True]"
+org.http4s:http4s-server_2.12,0.22-143-49b5a8d,388,Apache 2.0,"
+http4s.org
+","
+https://http4s.org/
+","(Feb 02, 2021) ",['Central'],85,"['CVE-2021-41084', 'CVE-2021-39185']","[True, True]"
+org.sonatype.nexus:nexus-extdirect,3.20.0-02,597,EPL 1.0,,,"(Dec 03, 2019) ",['Central'],11,['CVE-2020-10199'],[True]
+org.sonatype.nexus:nexus-core,2.11.0-01,597,EPL 1.0,,,"(Nov 18, 2014) ",['Central'],30,"['CVE-2020-10204', 'CVE-2020-10203', 'CVE-2021-41303', 'CVE-2021-29425', 'CVE-2020-1957', 'CVE-2020-17523', 'CVE-2020-13956', 'CVE-2020-13933', 'CVE-2020-11989', 'CVE-2019-12422', 'CVE-2015-5262']","[True, True, False, False, False, False, False, False, False, False, False]"
+org.sonatype.nexus:nexus-core,2.7.0-m3,597,EPL 1.0,,,"(Oct 10, 2013) ","['Central', 'Spring Lib M', 'Spring Plugins']",30,"['CVE-2020-10204', 'CVE-2020-10203', 'CVE-2021-41303', 'CVE-2021-29425', 'CVE-2020-1957', 'CVE-2020-17523', 'CVE-2020-13956', 'CVE-2020-13933', 'CVE-2020-11989', 'CVE-2019-12422', 'CVE-2015-5262', 'CVE-2014-3577']","[True, True, False, False, False, False, False, False, False, False, False, False]"
+org.sonatype.nexus:nexus-core,2.7.0-m4,597,EPL 1.0,,,"(Oct 24, 2013) ","['Central', 'Spring Lib M', 'Spring Plugins']",30,"['CVE-2020-10204', 'CVE-2020-10203', 'CVE-2021-41303', 'CVE-2021-29425', 'CVE-2020-1957', 'CVE-2020-17523', 'CVE-2020-13956', 'CVE-2020-13933', 'CVE-2020-11989', 'CVE-2019-12422', 'CVE-2015-5262', 'CVE-2014-3577']","[True, True, False, False, False, False, False, False, False, False, False, False]"
+org.sonatype.nexus:nexus-core,2.7.0-m1,597,EPL 1.0,,,"(Sep 12, 2013) ","['Central', 'Spring Lib M', 'Spring Plugins']",30,"['CVE-2020-10204', 'CVE-2020-10203', 'CVE-2021-41303', 'CVE-2021-29425', 'CVE-2020-1957', 'CVE-2020-17523', 'CVE-2020-13956', 'CVE-2020-13933', 'CVE-2020-11989', 'CVE-2019-12422', 'CVE-2015-5262', 'CVE-2014-3577']","[True, True, False, False, False, False, False, False, False, False, False, False]"
+org.sonatype.nexus:nexus-core,2.5.0-01,597,EPL 1.0,,,"(May 07, 2013) ","['Central', 'Spring Lib M', 'Spring Plugins']",30,"['CVE-2020-10204', 'CVE-2020-10203', 'CVE-2021-43859', 'CVE-2021-41303', 'CVE-2021-39154', 'CVE-2021-39153', 'CVE-2021-39152', 'CVE-2021-39151', 'CVE-2021-39150', 'CVE-2021-39149', 'CVE-2021-39148', 'CVE-2021-39147', 'CVE-2021-39146', 'CVE-2021-39145', 'CVE-2021-39144', 'CVE-2021-39141', 'CVE-2021-39140', 'CVE-2021-39139', 'CVE-2021-37714', 'CVE-2021-29505', 'CVE-2021-29425', 'CVE-2021-21351', 'CVE-2021-21350', 'CVE-2021-21349', 'CVE-2021-21348', 'CVE-2021-21347', 'CVE-2021-21346', 'CVE-2021-21345', 'CVE-2021-21344', 'CVE-2021-21343', 'CVE-2021-21342', 'CVE-2021-21341', 'CVE-2020-8908', 'CVE-2020-26259', 'CVE-2020-26258', 'CVE-2020-26217', 'CVE-2020-1957', 'CVE-2020-17523', 'CVE-2020-13956', 'CVE-2020-13933', 'CVE-2020-11989', 'CVE-2019-12422', 'CVE-2019-10173', 'CVE-2019-10172', 'CVE-2018-10237', 'CVE-2017-7957', 'CVE-2016-3674', 'CVE-2015-5262', 'CVE-2014-3577', 'CVE-2013-7285']","[True, True, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False]"
+org.sonatype.nexus:nexus-core,2.9.1-02,597,EPL 1.0,,,"(Sep 04, 2014) ",['Central'],30,"['CVE-2020-10204', 'CVE-2020-10203', 'CVE-2021-41303', 'CVE-2021-29425', 'CVE-2020-1957', 'CVE-2020-17523', 'CVE-2020-13956', 'CVE-2020-13933', 'CVE-2020-11989', 'CVE-2019-12422', 'CVE-2015-5262']","[True, True, False, False, False, False, False, False, False, False, False]"
+org.sonatype.nexus:nexus-core,2.7.2-01,597,EPL 1.0,,,"(Feb 12, 2014) ","['Central', 'Spring Lib M', 'Spring Plugins']",30,"['CVE-2020-10204', 'CVE-2020-10203', 'CVE-2021-41303', 'CVE-2021-29425', 'CVE-2020-1957', 'CVE-2020-17523', 'CVE-2020-13956', 'CVE-2020-13933', 'CVE-2020-11989', 'CVE-2019-12422', 'CVE-2015-5262', 'CVE-2014-3577']","[True, True, False, False, False, False, False, False, False, False, False, False]"
+org.sonatype.nexus:nexus-core,2.11.2-04,597,EPL 1.0,,,"(Mar 05, 2015) ",['Central'],30,"['CVE-2020-10204', 'CVE-2020-10203', 'CVE-2021-41303', 'CVE-2021-29425', 'CVE-2020-1957', 'CVE-2020-17523', 'CVE-2020-13956', 'CVE-2020-13933', 'CVE-2020-11989', 'CVE-2019-12422']","[True, True, False, False, False, False, False, False, False, False]"
+org.quartz-scheduler:quartz,1.7.3,592,Apache 2.0,,,"(Feb 24, 2010) ","['Central', 'Geomajas', 'Redhat GA', 'Sonatype']",1768,"['CVE-2019-13990', 'CVE-2022-23305', 'CVE-2022-23302', 'CVE-2021-4104', 'CVE-2019-17571', 'CVE-2019-10086', 'CVE-2014-0114']","[True, False, False, False, False, False, False]"
+cn.hutool:hutool-all,4.1.4,80,Apache 2.0,,"
+https://github.com/looly/hutool
+","(Jul 29, 2018) ","['Central', 'Sonatype']",829,"['CVE-2018-17297', 'CVE-2020-15250']","[True, False]"
+cn.hutool:hutool-all,4.0.4,80,Apache 2.0,,"
+https://github.com/looly/hutool
+","(Jan 31, 2018) ","['Central', 'Sonatype']",829,"['CVE-2018-17297', 'CVE-2020-15250']","[True, False]"
+com.googlecode.aviator:aviator,1.0.1,2429,LGPL,,"
+http://code.google.com/p/aviator/
+","(Sep 06, 2010) ","['Central', 'IBiblio', 'Sonatype', 'Spring Lib M', 'Spring Plugins']",60,"['CVE-2021-41862', 'CVE-2019-10086', 'CVE-2014-0114']","[True, False, False]"
+com.alibaba.nacos:nacos-common,1.1.1,71,Apache 2.0,,"
+http://maven.apache.org
+","(Jul 09, 2019) ","['Central', 'Hortonworks']",5,"['CVE-2021-44667', 'CVE-2021-29442', 'CVE-2021-29441', 'CVE-2020-19676', 'CVE-2021-29425', 'CVE-2020-15250']","[True, True, True, True, False, False]"
+org.jodd:jodd-all,4.1.3,2390,BSD 2-clause,"
+Jodd
+","
+http://jodd.org
+","(Feb 03, 2018) ","['Central', 'JCenter', 'Sonatype']",1,['CVE-2018-21234'],[True]
+org.codehaus.jackson:jackson-mapper-asl,1.9.13,159,Apache 2.0,"
+FasterXML
+","
+http://jackson.codehaus.org
+","(Jul 15, 2013) ","['Central', 'Geomajas', 'Redhat GA', 'Sonatype', 'Spring Lib Release']",3593,['CVE-2019-10172'],[True]
+net.minidev:json-smart,2.4.2,2043,Apache 2.0,"
+Chemouni Uriel
+","
+https://urielch.github.io/
+","(Apr 04, 2021) ","['Central', 'PentahoOmni']",488,['CVE-2021-31684'],[True]
+com.vaadin:flow-server,2.1.0.beta2,9760,Apache 2.0,,,"(Oct 07, 2019) ",['Central'],125,"['CVE-2021-31407', 'CVE-2021-31404', 'CVE-2020-36321', 'CVE-2021-37714', 'CVE-2021-29425', 'CVE-2020-10693', 'CVE-2019-10219']","[True, True, True, False, False, False, False]"
+edu.stanford.nlp:stanford-corenlp,1.2.0,10517,GPL 2.0,,"
+http://nlp.stanford.edu/software/corenlp.shtml
+","(Sep 26, 2011) ","['Central', 'Geomajas', 'Sonatype']",208,"['CVE-2022-0239', 'CVE-2022-0198', 'CVE-2021-44550']","[True, True, True]"
+org.jdom:jdom,1.1,10549,Apache,,"
+http://www.jdom.org/
+","(Sep 26, 2008) ","['Central', 'AdobePublic', 'Mulesoft', 'Redhat GA']",809,"['CVE-2021-33813', 'CVE-2022-23437', 'CVE-2012-0881', 'CVE-2009-2625']","[True, False, False, False]"
+ch.qos.logback:logback-classic,0.9.7,10567,LGPL,,"
+http://logback.qos.ch
+","(May 29, 2007) ","['Central', 'Sonatype', 'Spring Lib M', 'Spring Plugins']",22657,"['CVE-2017-5929', 'CVE-2021-42550', 'CVE-2020-10683', 'CVE-2018-1000632', 'CVE-2017-5929']","[True, False, False, False, False]"
+ch.qos.logback:logback-core,0.9.5,10567,LGPL,,"
+http://logback.qos.ch
+","(Apr 02, 2007) ","['Central', 'Sonatype', 'Spring Lib M', 'Spring Plugins']",4780,"['CVE-2021-42550', 'CVE-2017-5929']","[True, True]"
+com.googlecode.owasp-java-html-sanitizer:owasp-java-html-sanitizer,20160203.1,10658,Apache 2.0,"
+OWASP
+","
+https://github.com/OWASP/java-html-sanitizer
+","(Feb 03, 2016) ","['Central', 'Sonatype']",89,['CVE-2021-42575'],[True]
+com.alibaba:fastjson,1.2.4.sec10,13010,Apache 2.0,"
+Alibaba Group
+","
+https://github.com/alibaba/fastjson
+","(May 31, 2020) ",['Central'],4858,"['CVE-2017-18349', 'CVE-2022-22965', 'CVE-2021-29425', 'CVE-2021-27568', 'CVE-2021-20190', 'CVE-2020-9548', 'CVE-2020-9547', 'CVE-2020-8840', 'CVE-2020-36518', 'CVE-2020-36189', 'CVE-2020-36188', 'CVE-2020-36187', 'CVE-2020-36186', 'CVE-2020-36185', 'CVE-2020-36184', 'CVE-2020-36183', 'CVE-2020-36182', 'CVE-2020-36181', 'CVE-2020-36180', 'CVE-2020-36179', 'CVE-2020-35491', 'CVE-2020-35490', 'CVE-2020-25649', 'CVE-2020-24750', 'CVE-2020-24616', 'CVE-2020-17521', 'CVE-2020-15250', 'CVE-2020-10673', 'CVE-2019-20330', 'CVE-2019-17531', 'CVE-2019-17267', 'CVE-2019-16943', 'CVE-2019-16942', 'CVE-2019-16335', 'CVE-2019-14892', 'CVE-2019-14540', 'CVE-2019-14439', 'CVE-2019-14379', 'CVE-2019-12814', 'CVE-2019-12384', 'CVE-2019-12086', 'CVE-2018-7489', 'CVE-2018-5968', 'CVE-2018-14719', 'CVE-2018-14718', 'CVE-2018-12022', 'CVE-2018-11307', 'CVE-2017-7525', 'CVE-2017-17485', 'CVE-2017-15095']","[True, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False]"
+com.alibaba:fastjson,1.1.31.sec06,13010,Apache 2.0,"
+Alibaba Group
+","
+https://github.com/AlibabaTech/fastjson
+","(Sep 04, 2019) ",['Central'],4858,"['CVE-2017-18349', 'CVE-2022-22965', 'CVE-2021-29425', 'CVE-2021-27568', 'CVE-2021-20190', 'CVE-2020-9548', 'CVE-2020-9547', 'CVE-2020-8840', 'CVE-2020-36518', 'CVE-2020-36189', 'CVE-2020-36188', 'CVE-2020-36187', 'CVE-2020-36186', 'CVE-2020-36185', 'CVE-2020-36184', 'CVE-2020-36183', 'CVE-2020-36182', 'CVE-2020-36181', 'CVE-2020-36180', 'CVE-2020-36179', 'CVE-2020-35491', 'CVE-2020-35490', 'CVE-2020-25649', 'CVE-2020-24750', 'CVE-2020-24616', 'CVE-2020-17521', 'CVE-2020-10673', 'CVE-2019-20330', 'CVE-2019-17531', 'CVE-2019-17267', 'CVE-2019-16943', 'CVE-2019-16942', 'CVE-2019-16335', 'CVE-2019-14892', 'CVE-2019-14540', 'CVE-2019-14439', 'CVE-2019-14379', 'CVE-2019-12814', 'CVE-2019-12384', 'CVE-2019-12086', 'CVE-2018-7489', 'CVE-2018-5968', 'CVE-2018-14719', 'CVE-2018-14718', 'CVE-2018-12022', 'CVE-2018-11307', 'CVE-2017-7525', 'CVE-2017-17485', 'CVE-2017-15095']","[True, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False]"
+com.alibaba:fastjson,1.1.29,13010,Apache 2.0,"
+Alibaba Group
+","
+https://github.com/AlibabaTech/fastjson
+","(Apr 08, 2013) ","['Central', 'Geomajas', 'Mulesoft', 'Sonatype', 'WSO2 Public']",4858,"['CVE-2017-18349', 'CVE-2022-22965', 'CVE-2021-29425', 'CVE-2021-27568', 'CVE-2021-20190', 'CVE-2020-9548', 'CVE-2020-9547', 'CVE-2020-8840', 'CVE-2020-36518', 'CVE-2020-36189', 'CVE-2020-36188', 'CVE-2020-36187', 'CVE-2020-36186', 'CVE-2020-36185', 'CVE-2020-36184', 'CVE-2020-36183', 'CVE-2020-36182', 'CVE-2020-36181', 'CVE-2020-36180', 'CVE-2020-36179', 'CVE-2020-35491', 'CVE-2020-35490', 'CVE-2020-25649', 'CVE-2020-24750', 'CVE-2020-24616', 'CVE-2020-17521', 'CVE-2020-10673', 'CVE-2019-20330', 'CVE-2019-17531', 'CVE-2019-17267', 'CVE-2019-16943', 'CVE-2019-16942', 'CVE-2019-16335', 'CVE-2019-14892', 'CVE-2019-14540', 'CVE-2019-14439', 'CVE-2019-14379', 'CVE-2019-12814', 'CVE-2019-12384', 'CVE-2019-12086', 'CVE-2018-7489', 'CVE-2018-5968', 'CVE-2018-14719', 'CVE-2018-14718', 'CVE-2018-12022', 'CVE-2018-11307', 'CVE-2017-7525', 'CVE-2017-17485', 'CVE-2017-15095']","[True, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False]"
+com.alibaba:fastjson,1.2.7.sec06,13010,Apache 2.0,"
+Alibaba Group
+","
+https://github.com/alibaba/fastjson
+","(Sep 04, 2019) ",['Central'],4858,"['CVE-2017-18349', 'CVE-2022-22965', 'CVE-2021-29425', 'CVE-2021-27568', 'CVE-2021-20190', 'CVE-2020-9548', 'CVE-2020-9547', 'CVE-2020-8840', 'CVE-2020-36518', 'CVE-2020-36189', 'CVE-2020-36188', 'CVE-2020-36187', 'CVE-2020-36186', 'CVE-2020-36185', 'CVE-2020-36184', 'CVE-2020-36183', 'CVE-2020-36182', 'CVE-2020-36181', 'CVE-2020-36180', 'CVE-2020-36179', 'CVE-2020-35491', 'CVE-2020-35490', 'CVE-2020-25649', 'CVE-2020-24750', 'CVE-2020-24616', 'CVE-2020-17521', 'CVE-2020-15250', 'CVE-2020-10673', 'CVE-2019-20330', 'CVE-2019-17531', 'CVE-2019-17267', 'CVE-2019-16943', 'CVE-2019-16942', 'CVE-2019-16335', 'CVE-2019-14892', 'CVE-2019-14540', 'CVE-2019-14439', 'CVE-2019-14379', 'CVE-2019-12814', 'CVE-2019-12384', 'CVE-2019-12086', 'CVE-2018-7489', 'CVE-2018-5968', 'CVE-2018-14719', 'CVE-2018-14718', 'CVE-2018-12022', 'CVE-2018-11307', 'CVE-2017-7525', 'CVE-2017-17485', 'CVE-2017-15095']","[True, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False]"
+com.alibaba:fastjson,1.1.34.sec04,13010,Apache 2.0,"
+Alibaba Group
+","
+https://github.com/alibaba/fastjson
+","(Dec 13, 2018) ","['Central', 'Sonatype']",4858,"['CVE-2017-18349', 'CVE-2022-22965', 'CVE-2021-29425', 'CVE-2021-27568', 'CVE-2021-20190', 'CVE-2020-9548', 'CVE-2020-9547', 'CVE-2020-8840', 'CVE-2020-36518', 'CVE-2020-36189', 'CVE-2020-36188', 'CVE-2020-36187', 'CVE-2020-36186', 'CVE-2020-36185', 'CVE-2020-36184', 'CVE-2020-36183', 'CVE-2020-36182', 'CVE-2020-36181', 'CVE-2020-36180', 'CVE-2020-36179', 'CVE-2020-35491', 'CVE-2020-35490', 'CVE-2020-25649', 'CVE-2020-24750', 'CVE-2020-24616', 'CVE-2020-17521', 'CVE-2020-15250', 'CVE-2020-10673', 'CVE-2019-20330', 'CVE-2019-17531', 'CVE-2019-17267', 'CVE-2019-16943', 'CVE-2019-16942', 'CVE-2019-16335', 'CVE-2019-14892', 'CVE-2019-14540', 'CVE-2019-14439', 'CVE-2019-14379', 'CVE-2019-12814', 'CVE-2019-12384', 'CVE-2019-12086', 'CVE-2018-7489', 'CVE-2018-5968', 'CVE-2018-14719', 'CVE-2018-14718', 'CVE-2018-12022', 'CVE-2018-11307', 'CVE-2017-7525', 'CVE-2017-17485', 'CVE-2017-15095']","[True, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False, False]"
